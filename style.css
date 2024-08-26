@@ -1,0 +1,6 @@
+body{
+    background:#bb8fce 
+}
+
+.danger {background-color: #f44336;} 
+.danger:hover {background: #da190b;}
